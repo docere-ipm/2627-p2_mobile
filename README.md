@@ -657,61 +657,61 @@ recomienda documentar los perfiles adicionales siguiendo la misma
 plantilla.
 
 
-  1. Carlos, el "Forofo" Multitarea (Uso en Movilidad)
+1. Carlos, el "Forofo" Multitarea (Uso en Movilidad)
 
-    * **Perfil:** 28 años, analista de datos. Fanático del fútbol y el baloncesto.
+  * **Perfil:** 28 años, analista de datos. Fanático del fútbol y el baloncesto.
 	
-    * **Contexto de uso:** Consulta los resultados rápidamente
-      mientras va en el metro o camina hacia el trabajo, muchas veces
-      con una sola mano y con conexión de red inestable.
+  * **Contexto de uso:** Consulta los resultados rápidamente mientras
+      va en el metro o camina hacia el trabajo, muchas veces con una
+      sola mano y con conexión de red inestable.
 	
-    * **Necesidades clave para la interfaz:**
-      - Acceso inmediato a los partidos **en directo** sin navegación
-        compleja.
-      - Tiempos de carga rápidos y feedback visual claro cuando la red
-        falla o va lenta.
-      - Botones y áreas táctiles grandes para poder pulsar fácilmente
-        en movimiento.
+  * **Necesidades clave para la interfaz:**
+    - Acceso inmediato a los partidos **en directo** sin navegación
+      compleja.
+    - Tiempos de carga rápidos y feedback visual claro cuando la red
+      falla o va lenta.
+    - Botones y áreas táctiles grandes para poder pulsar fácilmente en
+      movimiento.
 
 
-  2. Lucía, la Aficionada Ocasional (Filtrado y Organización)
+2. Lucía, la Aficionada Ocasional (Filtrado y Organización)
 
-    * **Perfil:** 42 años, profesora. Le gusta seguir los grandes
-      eventos deportivos del fin de semana (tenis, Fórmula 1 y
-      fútbol), pero no sigue el día a día.
-	
-    * **Contexto de uso:** Se sienta en el sofá con su teléfono el
-      domingo por la tarde para ponerse al día de los resultados de
-      sus deportistas favoritos.
-	
-    * **Necesidades clave para la interfaz:**
-      - Un sistema de **búsqueda y filtrado** intuitivo (por deporte,
-        fecha o estado del evento).
-      - Una pantalla de detalle limpia que muestre estadísticas claras
-        sin saturación visual.
-      - Capacidad de marcar eventos como **favoritos** para
-        encontrarlos rápido.
+  * **Perfil:** 42 años, profesora. Le gusta seguir los grandes
+	eventos deportivos del fin de semana (tenis, Fórmula 1 y
+	fútbol), pero no sigue el día a día.
+
+  * **Contexto de uso:** Se sienta en el sofá con su teléfono el
+	domingo por la tarde para ponerse al día de los resultados de
+	sus deportistas favoritos.
+
+  * **Necesidades clave para la interfaz:**
+	- Un sistema de **búsqueda y filtrado** intuitivo (por deporte,
+	  fecha o estado del evento).
+	- Una pantalla de detalle limpia que muestre estadísticas claras
+	  sin saturación visual.
+	- Capacidad de marcar eventos como **favoritos** para
+	  encontrarlos rápido.
 
 
-  3. Mateo, el Aficionado Senior (Accesibilidad y Pantallas Grandes)
+3. Mateo, el Aficionado Senior (Accesibilidad y Pantallas Grandes)
 
-    * **Perfil:** 64 años, jubilado. Le encanta seguir la liga de
-      fútbol local. Debido a problemas de vista leves, prefiere usar
-      una tablet en lugar del móvil.
-	
-    * **Contexto de uso:** Consulta la aplicación en casa con la
-      tablet apoyada en la mesa o en orientación horizontal
-      (*landscape*).
-	
-    * **Necesidades clave para la interfaz:**
-      - **Diseño adaptativo real:** Que la app aproveche el espacio de
-        la tablet (ej. vista de panel dual: listado a la izquierda,
-        detalle a la derecha).
-      - **Accesibilidad (a11y):** Contraste de colores adecuado y
-        compatibilidad con el escalado de fuentes del sistema
-        operativo.
-      - Textos claros y descriptivos, evitando iconos sin etiquetas
-        explicativas.
+  * **Perfil:** 64 años, jubilado. Le encanta seguir la liga de
+	fútbol local. Debido a problemas de vista leves, prefiere usar
+	una tablet en lugar del móvil.
+
+  * **Contexto de uso:** Consulta la aplicación en casa con la
+	tablet apoyada en la mesa o en orientación horizontal
+	(*landscape*).
+
+  * **Necesidades clave para la interfaz:**
+	- **Diseño adaptativo real:** Que la app aproveche el espacio de
+	  la tablet (ej. vista de panel dual: listado a la izquierda,
+	  detalle a la derecha).
+	- **Accesibilidad (a11y):** Contraste de colores adecuado y
+	  compatibilidad con el escalado de fuentes del sistema
+	  operativo.
+	- Textos claros y descriptivos, evitando iconos sin etiquetas
+	  explicativas.
 
 
 Estos perfiles también son la base para aportar valor al
