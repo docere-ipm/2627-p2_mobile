@@ -399,7 +399,7 @@ forma recurrente divididos por los objetivos de la práctica:
 
 Para obtener el aprobado de la práctica, es __requisito
 indispensable__ ninguno de los apartados que conforman la rúbrica
-pueden califica como _suspenso_.
+puede calificar como _suspenso_.
 
 
 ---
