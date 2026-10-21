@@ -389,13 +389,9 @@ forma recurrente divididos por los objetivos de la práctica:
 
 | Criterio | Excelente (10-9) | Notable (8-7) | Aprobado (6-5) | Suspenso (<5) |
 | --- | --- | --- | --- | --- |
-
 | **Arquitectura y Adaptabilidad** | Separación estricta de capas (Modelo-Vista). La interfaz se adapta de forma impecable y fluida a smartphones y tablets en cualquier orientación. | Buena arquitectura limpia y diseño adaptativo correcto con limitaciones menores en algún factor de forma. | Arquitectura funcional pero con cierto acoplamiento; adaptación rígida o con fallos menores de responsividad. | Código monolítico sin separación de capas; la interfaz se rompe por completo al cambiar de tamaño u orientación. |
-
 | **Implementación en Flutter y Funcionalidad** | Aplicación robusta, fluida, excelente gestión de estados, carga y errores de red en *IPMSportsFan*. | Aplicación plenamente funcional que cumple con los requisitos principales de consulta de resultados y navegación. | Funcionalidad parcial, con pequeños bugs de interfaz, o gestión deficiente de la conectividad y estados vacíos. | Aplicación no funcional, con errores graves de compilación, cuelgues constantes o ausencia de Flutter. |
-
 | **Pruebas End-to-End (E2E) y Calidad** | Pruebas E2E completas y automatizadas que cubren con éxito los flujos principales, casos borde y gestión de errores. | Pruebas E2E implementadas que cubren correctamente los casos de uso principales de la aplicación. | Pruebas básicas, frágiles o incompletas que apenas ejercitan la interfaz de usuario. | Ausencia total de pruebas automatizadas o tests que fallan al compilar. |
-
 | **Documentación y Evidencias (Memoria)** | Memoria excelente, análisis profundo, justificación sólida y matriz completa de capturas en diversas configuraciones (móvil, tablet, nube). | Memoria completa con todos los apartados requeridos y evidencias gráficas correctas. | Memoria justa, descripciones superficiales y capturas incompletas o de una única configuración. | Memoria ausente, incompleta, sin evidencias gráficas o con indicios claros de plagio. |
 
 
